@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Villefranche-Vernet-Les-Bains",
+    "pk": 0.0,
+    "latitude": 42.5920598,
+    "longitude": 2.3672744,
+    "mandatory": true
+  },
+  {
+    "name": "Serdinya",
+    "pk": 4.9,
+    "latitude": 42.566991804800566,
+    "longitude": 2.3226928975016783,
+    "mandatory": false
+  },
+  {
+    "name": "Joncet",
+    "pk": 6.2,
+    "latitude": 42.56157826021938,
+    "longitude": 2.311081628469283,
+    "mandatory": false
+  },
+  {
+    "name": "Olette-Canaveilles-Les-Bains",
+    "pk": 9.7,
+    "latitude": 42.55482846125269,
+    "longitude": 2.271904108709274,
+    "mandatory": true
+  },
+  {
+    "name": "Nyer",
+    "pk": 11.6,
+    "latitude": 42.54261170638213,
+    "longitude": 2.263486980913231,
+    "mandatory": false
+  },
+  {
+    "name": "Thuès-Les-Bains",
+    "pk": 13.8,
+    "latitude": 42.52890358602359,
+    "longitude": 2.2494909885808063,
+    "mandatory": false
+  },
+  {
+    "name": "Thuès",
+    "pk": 16.2,
+    "latitude": 42.52310133287331,
+    "longitude": 2.223254525607659,
+    "mandatory": false
+  },
+  {
+    "name": "Fontpédrouse - Saint-Thomas-Les-Bains",
+    "pk": 19.7,
+    "latitude": 42.513827765621734,
+    "longitude": 2.189044947628838,
+    "mandatory": true
+  },
+  {
+    "name": "Sauto",
+    "pk": 22.7,
+    "latitude": 42.50639003794661,
+    "longitude": 2.160272157848255,
+    "mandatory": false
+  },
+  {
+    "name": "Planès",
+    "pk": 25.2,
+    "latitude": 42.50155490462146,
+    "longitude": 2.137828905321694,
+    "mandatory": false
+  },
+  {
+    "name": "Mont-Louis-La-Cabanasse",
+    "pk": 27.8,
+    "latitude": 42.502230155734374,
+    "longitude": 2.1137351338992576,
+    "mandatory": true
+  },
+  {
+    "name": "Bolquère-Eyne",
+    "pk": 30.2,
+    "latitude": 42.49808224520724,
+    "longitude": 2.0873995213350582,
+    "mandatory": false
+  },
+  {
+    "name": "Font-Romeu-Odeillo-Via",
+    "pk": 34.9,
+    "latitude": 42.4914734196263,
+    "longitude": 2.038464393702476,
+    "mandatory": true
+  },
+  {
+    "name": "Estavar",
+    "pk": 42.4,
+    "latitude": 42.46354213270526,
+    "longitude": 2.018445767568763,
+    "mandatory": false
+  },
+  {
+    "name": "Saillagouse",
+    "pk": 44.6,
+    "latitude": 42.457162069311856,
+    "longitude": 2.0326635867182876,
+    "mandatory": true
+  },
+  {
+    "name": "Err",
+    "pk": 46.6,
+    "latitude": 42.44287273279995,
+    "longitude": 2.029215335025133,
+    "mandatory": false
+  },
+  {
+    "name": "Sainte-Léocadie",
+    "pk": 48.3,
+    "latitude": 42.44101468606066,
+    "longitude": 2.0097185387773293,
+    "mandatory": false
+  },
+  {
+    "name": "Osséja",
+    "pk": 52.8,
+    "latitude": 42.41992105361733,
+    "longitude": 1.9776058500227247,
+    "mandatory": false
+  },
+  {
+    "name": "Bourg-Madame",
+    "pk": 55.6,
+    "latitude": 42.43260551729985,
+    "longitude": 1.9495656666926597,
+    "mandatory": true
+  },
+  {
+    "name": "Ur - Les Escaldes",
+    "pk": 58.7,
+    "latitude": 42.45761749029794,
+    "longitude": 1.9415478444335177,
+    "mandatory": false
+  },
+  {
+    "name": "Béna-Fanès",
+    "pk": 61.3,
+    "latitude": 42.45828482410225,
+    "longitude": 1.9168346777013139,
+    "mandatory": false
+  },
+  {
+    "name": "Latour-de-Carol-Enveitg",
+    "pk": 62.6,
+    "latitude": 42.459235730870496,
+    "longitude": 1.9047877068606573,
+    "mandatory": true
+  }
+]
